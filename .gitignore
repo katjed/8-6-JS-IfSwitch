@@ -58,4 +58,4 @@ typings/
 .env
 
 .sass-cache/
-css/*.css
+*.css.map
