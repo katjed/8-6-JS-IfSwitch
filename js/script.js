@@ -1,11 +1,7 @@
-//var name = prompt('Enter your name');
-//alert('Hello, ' + name);
-//console.log('Hello, ' + name);
-
 var a = 2,
 	b = 3,
 	value = (a * a) - (2 * a * b) + (b * b);
-console.log('Value is equal to ' + [(a * a) - (2 * a * b) + (b * b)]);
+console.log('Value is equal to: ' + [(a * a) - (2 * a * b) + (b * b)]);
 
 if(value > 0) {
 	console.log('Value is bigger than 0');
