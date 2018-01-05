@@ -1,1 +1,1 @@
-# learning-js-2
+# task-8-6
