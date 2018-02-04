@@ -1,5 +1,4 @@
-// method 1 
-
+// Method 1 
 var a = 2,
 	b = 3,
 	value = (a * a) - (2 * a * b) + (b * b);
@@ -17,17 +16,15 @@ if(value == 0) {
 	console.log('Value is not equal to 0');
 } 
 
-// method 2
-
+// Method 2
 var value = value == 0 ? 'Value is equal to 0' : 'Value is not equal to 0';
 console.log(value); 
 
-// method 3
-
+// Method 3
 var a = prompt('Enter a'),
 	b = prompt('Enter b'),
 	value = (a * a) - (2 * a * b) + (b * b);
-alert('Value is equal to: ' + value)
+alert('Value is equal to: ' + value);
 console.log('Value is equal to: ' + value);
 
 if (value > 0) {
