@@ -1,1 +1,1 @@
-task-8-6
+8-6-JS-IfSwitch
